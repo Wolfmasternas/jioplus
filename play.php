@@ -1,6 +1,6 @@
 <html>
 <head>
-<title><?php $name = str_replace('_', ' ', $_REQUEST["c"]); echo $name; ?> | JioTV Web</title>
+<title><?php $name = str_replace('_', ' ', $_REQUEST["c"]); echo $name; ?> | Wolf JioTV Web</title>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
 <meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=no"/>
 <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
@@ -84,13 +84,13 @@ filter: blur(4px);
 <body>
 <div id="loading" class="loading">
 <div class="loading-text">
-<span class="loading-text-words">L</span>
+<span class="loading-text-words">W</span>
 <span class="loading-text-words">O</span>
-<span class="loading-text-words">A</span>
-<span class="loading-text-words">D</span>
-<span class="loading-text-words">I</span>
-<span class="loading-text-words">N</span>
-<span class="loading-text-words">G</span>
+<span class="loading-text-words">L</span>
+<span class="loading-text-words">F</span>
+<span class="loading-text-words">-</span>
+<span class="loading-text-words">T</span>
+<span class="loading-text-words">V</span>
 </div>
 </div>
 <video autoplay controls crossorigin playsinline>
