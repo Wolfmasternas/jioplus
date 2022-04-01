@@ -10,8 +10,8 @@ $username = "+91" . $_GET["user"];
 $password = $_GET["pass"];
 
 $payload = array(
-    'identifier' => "$username",
-    'password' => "$password",
+    'identifier' => "+917678134744",
+    'password' => "radnik11",
     'rememberUser' => 'T',
     'upgradeAuth' => 'Y',
     'returnSessionDetails' => 'T',
